@@ -20,9 +20,9 @@ While NextMerce Pro features advanced functionalities, seamless integration, and
 | Lifetime Free Updates            | Included                       | Included                             |
 
 
-#### [🚀 Live Demo](https://demo.nextmerce.com/)
+#### [🚀 Live Demo](https://meta-merce.vercel.app/)
 
-#### [🌐 Visit Website](https://nextmerce.com/)
+#### [🌐 Visit Website](https://jorjishasan.com/)
 
 ## Update Logs
 
